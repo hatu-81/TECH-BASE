@@ -43,7 +43,6 @@
             border-style: solid;
             border-color: #f9f9f9 transparent transparent transparent;
         }
-        }
     </style>
     <?php
         // DB接続設定
